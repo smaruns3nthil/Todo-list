@@ -1,0 +1,50 @@
+.container
+{
+    background-color:lightsteelblue;
+    width:330px;
+    margin:150px auto;
+}
+.header
+{
+    padding-left: 5%;
+    padding-right: 45%;
+}
+.main1
+{
+    background-color: lightgreen;
+}
+div h1
+{
+    margin-bottom: 0;
+
+}
+h4
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+input
+{
+    height: 20px;
+    width: 326px;
+    outline:none;
+}
+span
+{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top:5px;
+}
+
+.trash
+{
+    background-color: red;
+    padding-right:10px;
+    height:100%;
+    padding-left: 10px;
+    display:none;
+}
+.sp1
+{
+    text-decoration: line-through;
+}
